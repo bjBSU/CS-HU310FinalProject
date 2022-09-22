@@ -1,1 +1,1 @@
-# CS-HU310FinalProject
+# bsu-cs-hu-310-final-project
